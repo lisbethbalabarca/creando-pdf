@@ -1,0 +1,24 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+body{
+	text-align: center;
+}
+h1{
+	color: #08088A;
+	font-weight: bold;
+
+}
+label{
+	margin-right: 1%;
+	color: #DF013A;
+	text-align: left;
+}
+input{
+	padding: 0.2%;
+	width: 100%;
+}
+.btn{
+	width: 30%;
+
+}
